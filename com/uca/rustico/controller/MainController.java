@@ -1,3 +1,4 @@
+package com.uca.rustico.controller;
 
 @Controller
 public class MainController {
