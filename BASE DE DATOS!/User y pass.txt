@@ -1,0 +1,4 @@
+User: porfaquierodies@gmail.com
+pass: 1234
+
+Nombre de la base: rustico
